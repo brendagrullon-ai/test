@@ -1,0 +1,66 @@
+body {
+
+background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Download-Outer-Space-Wallpapers-Pictures.jpg");
+background-color: black;
+}
+
+h1 {
+
+color: teal;
+background-color: lightblue;
+}
+
+h2 {
+
+color: darkblue;
+}
+
+.ALL-LOB{
+ height: 130px;
+ width: 300px;
+ background-color: lightblue;
+ border-color: teal;
+ border-style: solid;
+ border-width: thin;
+border-radius: 50px;
+ margin: 20px;
+
+
+}
+
+.LOB-1{
+ height: 230px;
+ width: 300px;
+ background-color: lightblue;
+ border-color: teal;
+ border-style: solid;
+ border-width: thin;
+border-radius: 50px;
+ margin: 20px;
+
+
+}
+
+.LOB-2{
+ height: 260px;
+ width: 300px;
+ background-color: lightblue;
+ border-color: teal;
+ border-style: solid;
+ border-width: thin;
+border-radius: 50px;
+ margin: 20px;
+
+}
+
+.LOB-3{
+ height: 820px;
+ width: 300px;
+ background-color: lightblue;
+ border-color: teal;
+ border-style: solid;
+ border-width: thin;
+border-radius: 50px;
+ margin: 20px;
+
+}
